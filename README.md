@@ -14,5 +14,5 @@ npm run build
 
 to build for production
 
-![alt text](https://github.com/davoid-avoid/doom-roguelike/tree/master/repo-image/screenshot.png?raw=true)
+![screenshot](https://github.com/davoid-avoid/Doom-roguelike/blob/master/repo-image/screenshot.PNG?raw=true)
 
